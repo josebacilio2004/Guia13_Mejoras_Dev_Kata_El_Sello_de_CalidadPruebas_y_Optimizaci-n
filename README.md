@@ -1,10 +1,10 @@
 ## 🎯 Laboratorio 13 - Ingeniería de Calidad
-**Estudio:** [Nombre del Estudio]
+**Estudio:** Desarrollo de Videojuegos
 
 ### 👥 Roles:
-- **Arquitecto/a:** [Nombre] - Sistemas, patrones de diseño
-- **Ingeniero/a de Pruebas:** [Nombre] - Tests, calidad de código  
-- **Ingeniero/a de Rendimiento:** [Nombre] - Optimización, profiling
+- **Arquitecto/a:** José Anthony Bacilio De La Cruz - Sistemas, patrones de diseño
+- **Ingeniero/a de Pruebas:** José Anthony Bacilio De La Cruz - Tests, calidad de código  
+- **Ingeniero/a de Rendimiento:** José Anthony Bacilio De La Cruz - Optimización, profiling
 
 ### 📊 Métricas de Calidad:
 - **Cobertura de Tests:** 100% sistemas críticos
